@@ -1,1 +1,1 @@
-# CloudVisioner-an-aws-based-object-identification-platform
+# CloudVisioner-an-aws-based-dehaze-platform
