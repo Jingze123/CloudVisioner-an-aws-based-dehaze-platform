@@ -1,0 +1,19 @@
+{
+  "name": "retrieve_jobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.456.0",
+    "@aws-sdk/credential-providers": "^3.454.0",
+    "ini": "^4.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "uuid": "^9.0.1"
+  }
+}
